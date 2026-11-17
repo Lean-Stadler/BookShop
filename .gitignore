@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+
+# Angular / Node
+node_modules/
+.angular/
+dist/
+
+# Lokale Geheimnisse
+.env
+.env.*
+!.env.example
