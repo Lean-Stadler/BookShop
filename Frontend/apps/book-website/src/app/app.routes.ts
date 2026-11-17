@@ -7,7 +7,7 @@ export const routes: Routes = [
     path: '',
     pathMatch: 'full',
     component: HomeComponent,
-    title: 'Rise of the Shadows',
+    title: 'BookStoreTest',
   },
   {
     path: 'buecher',
